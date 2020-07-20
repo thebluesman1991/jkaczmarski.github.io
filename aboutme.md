@@ -25,7 +25,7 @@ You can see my CV here (coming soon...)
 Australian National University, 2020 -
 
 ### Education
-Ph.D., Australian National University, 2020
+Ph.D., Australian National University, 2020  
 Ph.B., Australian National University, 2014
   - A research-focused science degree, including First Class Honours. 
 
@@ -33,7 +33,7 @@ Ph.B., Australian National University, 2014
 (Coming soon...)
 
 ## Email
-joe.kaczmarski@anu.edu.au
+joe.kaczmarski@anu.edu.au  
 kaczmarski.joe@gmail.com
 
 ### Selected Publications

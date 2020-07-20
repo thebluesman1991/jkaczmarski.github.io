@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: Structural Biologist | Protein Engineer
 ---
 
 ## Hi, I'm Joe.  

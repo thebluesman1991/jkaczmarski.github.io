@@ -7,8 +7,9 @@ subtitle: Contact
 I'd love to hear from you! Get in touch:  
   
 - **Email:** [kaczmarski.joe@gmail.com](kaczmarski.joe@gmail.com)
-- [My **Twitter** Profile](https://twitter.com/kaczmarski_joe)  
-- [My **LinkedIn** Profile](https://www.linkedin.com/in/joe-kaczmarski/) 
+- _via_ [My **Twitter** Profile](https://twitter.com/kaczmarski_joe)  
+- _via_ [My **LinkedIn** Profile](https://www.linkedin.com/in/joe-kaczmarski/) 
+- _via_ [My **Instagram** Profile](https://www.instagram.com/kaczmarski.joe/)
   
 I'm currently working at the Research School of Chemistry at the Australian National University. If you're in the area, drop by to say hello!  
   

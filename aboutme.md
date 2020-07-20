@@ -4,10 +4,9 @@ title: About me
 subtitle: Structural Biologist | Protein Engineer
 ---
   
-&nbsp  
-  
+<br/><br/>
 ### My Primary Research Interests
-&nbsp  
+<br/><br/> 
 #### Structural Immunology
 (coming soon...) 
 

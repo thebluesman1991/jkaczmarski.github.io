@@ -15,11 +15,11 @@ title: About me
   
 - I'm a traveller and lover of the outdoors (see my other blog, [Tasmanian Traveller](tasmaniantraveller.com)).    
   
-and    
+|    And    
   
-- I'm really glad you're here. 
-  
-  
+- And I'm really glad you're here. 
+
+<br/><br/>
 ## My Background
 If you would like to see my full CV, please [email me](kaczmarski.joe@gmail.com). 
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Structural Biologist | Protein Engineer | 
+subtitle: Structural Biologist | Protein Engineer
 ---
 
 ### My Primary Research Interests

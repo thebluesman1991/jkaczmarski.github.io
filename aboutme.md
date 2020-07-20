@@ -6,7 +6,6 @@ subtitle: Structural Biologist | Protein Engineer
   
 <br/><br/>
 ### My Primary Research Interests
-<br/><br/> 
 #### Structural Immunology
 (coming soon...) 
 

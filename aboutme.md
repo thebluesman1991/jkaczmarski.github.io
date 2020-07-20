@@ -1,16 +1,31 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Structural Biologist | Protein Engineer | 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### My Primary Research Interests
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+#### Structural Immunology
+(coming soon...) 
 
-What else do you need?
+#### Protein Engineering
+(coming soon...) 
 
-### my history
+#### Protein Evolution
+(coming soon...) 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### My Background
+
+You can see my CV here (coming soon...) 
+
+### Selected Publications
+You can see a complete list of my publications on [my Google Scholar page.](https://scholar.google.com.au/citations?user=CJ6W4UsAAAAJ&hl=en)
+
+(coming soon...)
+
+
+
+
+
+

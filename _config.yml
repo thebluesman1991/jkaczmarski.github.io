@@ -13,9 +13,9 @@ author: Joe A Kaczmarski
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Research Interests: "researchinterests"
+    - Publications: "publications"
+    - Contact: "contact"
   Author's home: "https://chemistry.anu.edu.au/people/students/mr-joe-kaczmarski"
 
 # --- Logo --- #

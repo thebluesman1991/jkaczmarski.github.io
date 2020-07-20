@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: Joe Kaczmarski
+title: Joe A Kaczmarski
 
 # Short description of your site
 description: science life writings
 
 # Your name to show in the footer
-author: Joe Kaczmarski
+author: Joe A Kaczmarski
 
 # --- List of links in the navigation bar --- #
 
@@ -16,13 +16,13 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://chemistry.anu.edu.au/people/students/mr-joe-kaczmarski"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/JK_cropped_pic.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -38,13 +38,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  rss: true
+  email: "kaczmarski.joe@gmail.com"
+#  facebook: deanattali
+  github: jkaczmarski
+  twitter: kaczmarski_joe
+  rss: false
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: joe-kaczmarski
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -59,20 +59,21 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com.au/citations?user=CJ6W4UsAAAAJ&hl=en
 
 # --- General options --- #
 
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
+  email: true
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# url-pretty: "MyWebsite.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -168,7 +169,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Australia/Sydney"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -187,7 +188,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
+      readtime: true # add estimated reading time on all blog posts
   -
     scope:
       path: "" # all files

@@ -10,9 +10,9 @@ I'm a structural biologist (I study the shape of protein molecules to understand
 I'm a protein engineer (I think about ways we can re-design protein molecules so that we can use them to do useful stuff).  
 I'm an evolutionary biochemist (I study the evolutionary processes and physical mechanisms that facilitate and constrain the diversification of biological molecules).   
 I'm a student and a teacher (I learn best through teaching).  
-I'm a traveller and lover of the outdoors (see my other blog, [Tasmanian Traveller](tasmaniantraveller.com).   
+I'm a traveller and lover of the outdoors (see my other blog, [Tasmanian Traveller](tasmaniantraveller.com)).   
 and  
-I'm glad you're here. 
+I'm really glad you're here. 
   
 ## My Background
 If you would like to see my full CV, please [email me](kaczmarski.joe@gmail.com). 

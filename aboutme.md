@@ -36,14 +36,12 @@ Ph.B., Australian National University, 2014 (A research-focused science degree, 
 (Coming soon...)
 
 ## Contact
-joe.kaczmarski@anu.edu.au  
-kaczmarski.joe@gmail.com
+[joe.kaczmarski@anu.edu.au](joe.kaczmarski@anu.edu.au)
+[kaczmarski.joe@gmail.com](kaczmarski.joe@gmail.com)
 
 ## Selected Publications
 You can see a complete list of my publications on [my Google Scholar page.](https://scholar.google.com.au/citations?user=CJ6W4UsAAAAJ&hl=en)
 (coming soon...)
-
-
 
 
 

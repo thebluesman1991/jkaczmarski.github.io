@@ -22,6 +22,3 @@ You can see a complete (and up-to-date) list of my publications on [my Google Sc
 - Fisher CR, Sutton HJ, **Kaczmarski JA**, McNamara HA, Clifton B, Mitchell J, Cai Y, Dups JN, D’Arcy NJ, Singh M, Chuah A, Peat TS, Jackson CJ, Cockburn IA. 2017. [T-dependent B cell responses to _Plasmodium_ induce antibodies that form a high-avidity multivalent complex with the circumsporozoite protein.](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006469) **_PLoS Pathog_** 13:1–23.
 - **Kaczmarski JA**, Corry B. 2014. [Investigating the size and dynamics of voltage-gated sodium channel fenestrations: A molecular dynamics study.](https://www.tandfonline.com/doi/full/10.4161/chan.28136) **_Channels_** 8:264–277. 
 
-
-
-

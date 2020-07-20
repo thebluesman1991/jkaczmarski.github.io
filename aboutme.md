@@ -13,11 +13,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mi eu int
 Download my full CV here (coming soon). 
 
 #### Current Position
-- Australian National University, 2020 -
+- **Research Scientist**, Australian National University, 2020 -
 
 #### Education
-- Ph.D., Australian National University, 2020  
-- Ph.B., Australian National University, 2014 (A research-focused science degree, including First Class Honours)
+- **Ph.D.**, Australian National University, 2020  
+- **Ph.B.**, Australian National University, 2014 (A research-focused science degree, including First Class Honours)
 
 #### Honors and Awards
-- (Coming soon...)
+- Australian Society for Biochemistry and Molecular Biology Fellowship, 2019
+- ANU Research School of Chemistry Postgraduate Teaching Fellowship, 2016
+- Research School of Chemistry PhD Scholarship, 2016
+- Australian Government Research Training Program Stipend Scholarship, 2016
+- ANU University Medal in Chemistry, 2014
+- National Undergraduate Scholarship, 2011
+

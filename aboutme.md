@@ -26,8 +26,7 @@ Australian National University, 2020 -
 
 ### Education
 Ph.D., Australian National University, 2020  
-Ph.B., Australian National University, 2014
-  - A research-focused science degree, including First Class Honours. 
+Ph.B., Australian National University, 2014 (A research-focused science degree, including First Class Honours)
 
 ### Honors and Awards
 (Coming soon...)

@@ -10,7 +10,7 @@ You can see a complete list of my publications on [my Google Scholar page.](http
 ## Selected Publications
 
 #### Pre-prints
-- **Kaczmarski JA**, Mahawaththa MC, Feintuch A, Clifton BE, Adams LA, Goldfarb D, Otting G, Jackson CJ. 2020. Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme. **_bioRxiv_** 2020.02.03.932491. 
+- **Kaczmarski JA**, Mahawaththa MC, Feintuch A, Clifton BE, Adams LA, Goldfarb D, Otting G, Jackson CJ. 2020. [Altered conformational sampling along an evolutionary trajectory changes the catalytic activity of an enzyme.](https://www.biorxiv.org/content/10.1101/2020.02.03.932491v1) **_bioRxiv_** 2020.02.03.932491. 
 - Lewis FJ, Chatterjee D, **Kaczmarski JA**, Gao X, Cai Y, McNamara HA, Sutton HJ, Jackson CJ, Cockburn IA. 2020. Avid binding by B cells to the _Plasmodium_ circumsporozoite protein repeat suppresses responses to protective subdominant epitopes. **_bioRxiv_** 2020.01.12.903682.  
   
 #### Published

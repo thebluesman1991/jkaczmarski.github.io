@@ -7,7 +7,8 @@ subtitle: Research Interests
 ---
   
 #### Structural Immunology
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla iaculis mi eu interdum sagittis. Donec erat nisl, tempor nec massa vitae, auctor condimentum elit. Morbi commodo massa a nisl viverra volutpat ac et ex. Cras rutrum purus nulla, et tristique mi scelerisque eget. Pellentesque ac tortor tincidunt mauris semper consequat. Quisque consequat, dolor id lacinia tincidunt, nisl nisl lacinia quam, a egestas ipsum urna eu lorem. Mauris non arcu bibendum, porttitor metus venenatis, aliquet dui. Nulla varius massa at neque feugiat, quis ullamcorper tortor posuere.
+Understanding the structural basis of interactions between protective (and non-protective) antibodies and the proteins on the surface of pathogens in central to the development of effective vaccines. Differences in the ways that antibodies bind and recognise epitopes on the pathogen proteins can determine how much protection the antibodies can provide. 
+
 - Fisher CR, Sutton HJ, **Kaczmarski JA**, McNamara HA, Clifton B, Mitchell J, Cai Y, Dups JN, D’Arcy NJ, Singh M, Chuah A, Peat TS, Jackson CJ, Cockburn IA. 2017. [T-dependent B cell responses to _Plasmodium_ induce antibodies that form a high-avidity multivalent complex with the circumsporozoite protein.](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006469) **_PLoS Pathog_** 13:1–23.
 - Lewis FJ, Chatterjee D, **Kaczmarski JA**, Gao X, Cai Y, McNamara HA, Sutton HJ, Jackson CJ, Cockburn IA. 2020. [Avid binding by B cells to the _Plasmodium_ circumsporozoite protein repeat suppresses responses to protective subdominant epitopes.](https://www.biorxiv.org/content/10.1101/2020.01.12.903682v1) **_bioRxiv_** 2020.01.12.903682.
   
